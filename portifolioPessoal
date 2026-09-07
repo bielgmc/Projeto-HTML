@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portfólio Pessoal</title>
+</head>
+
+<body>
+
+    <div>
+        <h1 id="inicio">Gabriel Matiniano Da conceicão</h1>
+        <h4>Tenho 20 anos e ja fui militar, gosto de praticar esportes</h4>
+        <hr>
+    </div>
+ 
+    <h2><b>MENU</b></h2>
+
+    <ul>
+        <li><a href="#mim">Sobre mim</a></li>
+        <li><a href="#formacão">Formacão</a></li>
+        <li><a href="#conhecimento">conhecimento</a></li>
+        <li><a href="#experiencia">Experiencia Profissional</a></li>
+        <li><a href="#ciencia">Um pouco de ciência</a></li>
+        <li><a href="#inspiração">Frase que me inspira</a></li>
+        <li><a href="#paises">Países que gostaria de conhecer</a></li>
+        <li><a href="#contatos">Contatos</a></li>
+        
+    </ul>
+    <br>
+    <hr>
+    
+    <div>
+        
+        <h2 id="mim">1. Sobre mim</h2>
+        <p>Meu nome é <em>Gabriel</em>, tenho 20 anos e estou cursando <abbr title="Análise e Desenvolvimento de Sistemas">ADS</abbr>!
+            <br>Gosto de praticar <em>esportes</em> e ter uma vida super ativa
+        </p>
+        <p>
+            Estou estudando <abbr title="HyperText Markup Language">HTML</abbr> e gosto muito de tecnologia.
+        </p>
+        <p>Um hobby diferente que tenho é de fazer trilhas e apraciar a natureza.</p>
+        <p>Sou <em>cristão</em> e eu amo <b>DEUS!</b></p>
+
+        <br>
+        <p><a href="#inicio">Voltar ao inicio</a></p>
+        
+        <hr>
+        <div>
+            <h2 id="formacão">2. Formacão Academica</h2>
+            <ul>
+                <li>
+                    Ensino médio
+                </li>
+                <li>Curso de python - SENAI</li>
+                <li>Curso de html</li>
+                <li>Curso de css</li>
+                <li>Tecnologo de ADS 
+                    <ul>
+                        <li>Desenvolvimento Web</li>
+                        <li>Algoritimo</li>
+                        <li>Banco de Dados</li>
+                        <li>Java</li>
+                     </ul>
+                </li>
+                <li>Ingles Basico - Wizard</li>            
+            </ul>
+            <br>
+            <p><a href="#inicio">Voltar ao inicio</a></p>
+            <hr>
+
+            <div>
+
+            <h2 id="conhecimento">3. conhecimento</h2>
+            <p>Tecnologias que pretendo aprender: </p>
+                <ol type="1">
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>Git e GitHub</li>
+                    <li>Python</li>
+                </ol>
+            <br>
+            <p><a href="#inicio">Voltar ao inicio</a></p>
+            <hr>
+            </div>
+
+            <div>
+                <h2 id="experiencia">4. Experiencia Profissional</h2>
+                
+                    <ul>
+                        <h3>Militar</h3>
+                        <h4>Jan 2025 - Fev 2026 - 3° Centro de Telematica de Área</h4>
+                            
+                        <small>
+                            <li>Apoio técnico e administrativo nas atividades de comunicação e tecnologia da informação</li>
+                            <li>
+                                Organização de tarefas operacionais e garantia do cumprimento de normas internas.
+                            </li>
+                            <li>
+                                Colaboração com equipes multidisciplinares, mantendo a disciplina e o foco em resultados.
+                            </li>
+                            <li>
+                                Moderação e atualização do site interno e externo da organização militar.
+                            </li>
+                            <li>
+                                Responsável por difundir e aplicar as diretrizes do Chefe da OM aos militares da unidade.
+                            </li>
+                            <li>
+                                Instalação e gerenciamento de antivírus em computadores 
+                                das Organizações Militares de São Paulo
+                            </li>
+                        </small>
+                    </ul>
+                    <ul>
+                        <h3>Vendedor</h3>
+                        <h4>Dez 2024 - Jan 2025 - Macedo</h4>
+                        <small>
+                            <li>Atendimento direto ao cliente, oferecendo suporte,
+informações sobre produtos e soluções personalizadas.</li>
+                            <li>Organização e reposição de mercadorias no ponto de venda.</li>
+                            <li>Controle de estoque e acompanhamento de metas de vendas.</li>
+                            <li>Operação de caixa e emissão de notas fiscais.</li>
+                            <li>Colaboração com a equipe para alcançar objetivos mensais da loja.</li>
+                            <li>Desenvolvimento de habilidades de comunicação, negociação e trabalho em equipe.</li>
+                        </small>                        
+                    </ul>
+                </p>
+                <br>
+                <p><a href="#inicio">Voltar ao inicio</a></p>
+                <hr>
+            </div>
+
+            <div>
+                <h2 id="ciencia">5. Um pouco de ciência</h2>
+                <p>A água possui förmula <abbr title="Fórmula química da água">H<sub>2</sub>O</abbr>.</p>
+                <p>Einstein apresentou a famosa relação: <abbr title="(E) energia">E</abbr> = <abbr title="(m) massa">m</abbr><abbr title="(Velocidade da luz ao quadrado)">c<sup>2</sup></abbr>.</p>
+                <p>A quantidade de <abbr title="gás carbônico">CO<sub>2</sub></abbr> na atmosfera é uma importante medida ambiental.</p>
+    
+                <br>
+                <p><a href="#inicio">Voltar ao inicio</a></p>
+                <hr>
+            </div>
+
+            <div>
+                    <h2 id="inspiração">6. Frase que me inspira</h2>
+
+                    <blockquote>
+                        "No tempo certo, Eu o Senhor, farei as coisas acontecer"<br>
+                        <cite>Isais 60:22</cite>
+                    </blockquote>
+        
+                    <br>
+                    <p><a href="#inicio">Voltar ao inicio</a></p>
+                    <hr>
+            </div>
+
+            <div>
+                <h2 id="paises">7. Paises que gostaria de conhecer</h2>
+                
+                <p><a href="https://pt.wikipedia.org/wiki/Bandeira_da_Su%C3%AD%C3%A7a" target="_blank">Suiça</a></p>
+
+                <a href="https://pt.wikipedia.org/wiki/Bandeira_da_Su%C3%AD%C3%A7a" target="_blank"><img src="img/bandeira-da-suica.webp" alt="Bandeira suiça" width="200"></a>
+
+                <p><a href="https://pt.wikipedia.org/wiki/Bandeira_do_Canad%C3%A1" target="_blank ">Canadá</a></p>
+
+                <a href="https://pt.wikipedia.org/wiki/Bandeira_do_Canad%C3%A1" target="_blank"><img src="img/bandeira-canada-capa.jpg" alt="Bandeira Canadá" width="200"></a>
+
+                <p><a href="https://pt.wikipedia.org/wiki/Bandeira_da_Fran%C3%A7a" target="_blank">França</a></p>
+
+                <a href="https://pt.wikipedia.org/wiki/Bandeira_da_Fran%C3%A7a" target="_blank"><img src="img/bandeira-da-franca.webp" alt="Bandeira da França" width="200"></a>
+    
+                <br>
+                <p><a href="#inicio">Voltar ao inicio</a></p>
+                <hr>
+            </div>
+
+            <div>
+                <h2 id="contatos">8. Contatos</h2>
+                <address>
+                    
+                        <pre>
+<b>Email:</b><a href="mailto:Gabrielmarcon06@gmail.com">Gabrielmarcon06@gmail.com</a>
+<b>Cidade:</b>São Paulo - SP
+<b>Curso:</b>Análise e Desenvolvimento de Sistemas
+                        </pre>
+                
+                </address>
+    
+                
+              <hr>
+            </div>
+            <p><a href="#inicio">&#x128205; Voltar ao inicio</a></p>
+
+
+
+
+
+        </div>
+
+
+
+</body>
+</html>
